@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a Postdoctoral Researchen the [Department of Computer Science and Engineering](https://engineering.buffalo.edu/computer-science-engineering/about-us.html) at the University at Buffalo (UB), State University of New York. I feel lucky to be a member of the [Media Forensic Lab](https://ubmdfl.cse.buffalo.edu/) led by Professor [Siwei Lyu](https://cse.buffalo.edu/~siweilyu/index.html). Before joining to UB, I was a visiting scholar in the [Lane Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at West Virginia University, working with Professor [Xin Li](https://xinli.faculty.wvu.edu/) and [Guodong Guo](https://directory.statler.wvu.edu/faculty-staff-directory/guodong-guo). In 2021, I finished my Ph.D. from Wuhan University, advised by Professor [Zhengquan Xu](https://www.researchgate.net/profile/Zhengquan-Xu). 
+* I am currently a Postdoctoral Researcher the [Lane Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at the West Virginia University (WVU). I feel lucky to work with Professor [Xin Li] (https://xinli.faculty.wvu.edu/). Before joining to WVU, I was a Postdoctoral Researcher in the [Institute of Space and Earth Information Science (ISEIS)](https://lcsee.statler.wvu.edu/]) at The Chinese University of Hong Kong (CUHK), working with Professor [Hui Lin](https://www.grm.cuhk.edu.hk/en/profile/prof-lin-hui/). In 2017, I finished my Ph.D. from Wuhan University, advised by Professor [Nengcheng Chen](https://www.researchgate.net/profile/Zhengquan-Xu](https://scholar.google.com.hk/citations?user=D5zNTFUAAAAJ&hl=zh-CN). 
 
-* My research interests include digital media forensics, biometrics, and computer vision, etc.
+* My research interests include GeoAI, multimedia, data mining and computer vision, etc.
 
 News
 ======
 * Nov. 2022: A paper on [street view image inpainting](https://arxiv.org/pdf/2205.06934.pdf) is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) (Impact Factor: 11.774).
-* Jun. 2022: Two papers on Media Forensics (i.e., [Deepfakes Model Attribution](https://ieeexplore.ieee.org/document/9897972) and [AI-synthesized Image Detection](https://ieeexplore.ieee.org/document/9897820)) are accepted by [ICIP 2022](https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1074).
+* Oct. 2022: A paper on [social media community detection] is accepted by [Decision Support System]() (i.e., [Deepfakes Model Attribution](https://ieeexplore.ieee.org/document/9897972) and [AI-synthesized Image Detection](https://ieeexplore.ieee.org/document/9897820)) are accepted by [ICIP 2022](https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1074).
 * Jan. 2022: A paper on [Image-text De-contextualization Detection](https://ieeexplore.ieee.org/document/9746193) is accepted by ICASSP 2022.
 * Dec. 2021: I gave a keynote speech on Deepfakes at [Open Media Forensics Challenge (OpenMFC) 2020-2021 Workshop](https://mfc.nist.gov/workshop).
 * Oct. 2021: I joined [UC Berkeley InforCamp](https://infocamp.ischool.berkeley.edu/) Deepfake Panel as a speaker.
