@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a Postdoctoral Researcher the [Lane Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at the West Virginia University (WVU). I feel lucky to work with Professor [Xin Li](https://xinli.faculty.wvu.edu/). Before joining to WVU, I was a Postdoctoral Researcher in the [Institute of Space and Earth Information Science (ISEIS)](https://lcsee.statler.wvu.edu/]) at The Chinese University of Hong Kong (CUHK), working with Professor [Hui Lin](https://www.grm.cuhk.edu.hk/en/profile/prof-lin-hui/). In 2017, I finished my Ph.D. from Wuhan University, advised by Professor [Nengcheng Chen](https://www.researchgate.net/profile/Zhengquan-Xu](https://scholar.google.com.hk/citations?user=D5zNTFUAAAAJ&hl=zh-CN). 
+* I am currently a Postdoctoral Researcher the [Lane Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at the West Virginia University (WVU). I feel lucky to work with Professor [Xin Li](https://xinli.faculty.wvu.edu/). Before joining to WVU, I was a Postdoctoral Researcher in the [Institute of Space and Earth Information Science (ISEIS)](https://lcsee.statler.wvu.edu/]) at The Chinese University of Hong Kong (CUHK), working with Professor [Hui Lin](https://www.grm.cuhk.edu.hk/en/profile/prof-lin-hui/). In 2017, I finished my Ph.D. from Wuhan University, advised by Professor [Nengcheng Chen](https://scholar.google.com.hk/citations?user=D5zNTFUAAAAJ&hl=zh-CN). 
 
 * My research interests include GeoAI, multimedia, data mining and computer vision, etc.
 
@@ -18,14 +18,14 @@ News
 * Oct. 2022: A paper on [GCN-based community detection on social media] is accepted by [Decision Support System](https://www.sciencedirect.com/journal/decision-support-systems) (Impact Factor: 6.969).
 * Nov. 2021: A paper on [Deep multimodal multilabel learning on social media](https://dl.acm.org/doi/abs/10.1145/3459637.3481908) is accepted by CIKM 2021 [(Best paper award runner-up)](https://www.cikm2021.org/programme/best-paper-nominations).
 * Oct. 2021: A paper on [Deep multimodal learning on Instagram data](https://dl.acm.org/doi/abs/10.1145/3472713) is accepted by ACM Trans Intell Syst.
-* Oct. 2020: A paper on [multimodal image fusion](https://ieeexplore.ieee.org/abstract/document/9294085) is accepted by IEEE Trans Circuits Syst Video Technol (Impact Factor: 4.685).
-* Feb. 2020: A paper on [Multi-task deep learning on street view](https://www.sciencedirect.com/science/article/abs/pii/S0360132319306341) is accepted by Building and Environment (Impact Factor: 6.92).
+* Oct. 2020: A paper on [multimodal image fusion](https://ieeexplore.ieee.org/abstract/document/9294085) is accepted by [IEEE Trans Circuits Syst Video Technol](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) (Impact Factor: 5.859).
+* Feb. 2020: A paper on [Multi-task deep learning on street view](https://www.sciencedirect.com/science/article/abs/pii/S0360132319306341) is accepted by [Building and Environment](https://www.sciencedirect.com/journal/building-and-environment) (Impact Factor: 6.92).
 
 Selected Publications
 ======
 <div class="row">
   <div class="column left">
-    <img align="left" width="25%" src="https://shanface33.github.io/images/SJ_SV.jpg?raw=true">  
+    <img align="left" width="25%" src="https://cbhu523.github.io/images/SJ_SV.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -40,7 +40,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="25%" src="https://shanface33.github.io/images/SJ_DF.jpg?raw=true">  
+    <img align="left" width="25%" src="https://cbhu523.github.io/images/SJ_DF.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
