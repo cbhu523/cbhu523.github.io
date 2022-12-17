@@ -8,19 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a Postdoctoral Researcher the [Lane Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at the West Virginia University (WVU). I feel lucky to work with Professor [Xin Li] (https://xinli.faculty.wvu.edu/). Before joining to WVU, I was a Postdoctoral Researcher in the [Institute of Space and Earth Information Science (ISEIS)](https://lcsee.statler.wvu.edu/]) at The Chinese University of Hong Kong (CUHK), working with Professor [Hui Lin](https://www.grm.cuhk.edu.hk/en/profile/prof-lin-hui/). In 2017, I finished my Ph.D. from Wuhan University, advised by Professor [Nengcheng Chen](https://www.researchgate.net/profile/Zhengquan-Xu](https://scholar.google.com.hk/citations?user=D5zNTFUAAAAJ&hl=zh-CN). 
+* I am currently a Postdoctoral Researcher the [Lane Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at the West Virginia University (WVU). I feel lucky to work with Professor [Xin Li](https://xinli.faculty.wvu.edu/). Before joining to WVU, I was a Postdoctoral Researcher in the [Institute of Space and Earth Information Science (ISEIS)](https://lcsee.statler.wvu.edu/]) at The Chinese University of Hong Kong (CUHK), working with Professor [Hui Lin](https://www.grm.cuhk.edu.hk/en/profile/prof-lin-hui/). In 2017, I finished my Ph.D. from Wuhan University, advised by Professor [Nengcheng Chen](https://www.researchgate.net/profile/Zhengquan-Xu](https://scholar.google.com.hk/citations?user=D5zNTFUAAAAJ&hl=zh-CN). 
 
 * My research interests include GeoAI, multimedia, data mining and computer vision, etc.
 
 News
 ======
 * Nov. 2022: A paper on [street view image inpainting](https://arxiv.org/pdf/2205.06934.pdf) is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) (Impact Factor: 11.774).
-* Oct. 2022: A paper on [social media community detection] is accepted by [Decision Support System]() (i.e., [Deepfakes Model Attribution](https://ieeexplore.ieee.org/document/9897972) and [AI-synthesized Image Detection](https://ieeexplore.ieee.org/document/9897820)) are accepted by [ICIP 2022](https://cmsworkshops.com/ICIP2022/view_session.php?SessionID=1074).
-* Jan. 2022: A paper on [Image-text De-contextualization Detection](https://ieeexplore.ieee.org/document/9746193) is accepted by ICASSP 2022.
-* Dec. 2021: I gave a keynote speech on Deepfakes at [Open Media Forensics Challenge (OpenMFC) 2020-2021 Workshop](https://mfc.nist.gov/workshop).
-* Oct. 2021: I joined [UC Berkeley InforCamp](https://infocamp.ischool.berkeley.edu/) Deepfake Panel as a speaker.
-* Jun. 2021: I defensed my Ph.D. dissertation on face spoofing detection and will join UB as a Post-Doctoral Researcher.
-* Dec. 2020: I joined [2020 International Graduate Workshop on GeoInformatics](http://www.lmars.whu.edu.cn/Upload/1608014392.pdf), and won the Excellent Presentation Award (1/11).
+* Oct. 2022: A paper on [GCN-based community detection on social media] is accepted by [Decision Support System](https://www.sciencedirect.com/journal/decision-support-systems) (Impact Factor: 6.969).
+* Nov. 2021: A paper on [Deep multimodal multilabel learning on social media](https://dl.acm.org/doi/abs/10.1145/3459637.3481908) is accepted by CIKM 2021 (Best paper award runner-up).
+* Oct. 2021: A paper on [Deep multimodal learning on Instagram data](https://dl.acm.org/doi/abs/10.1145/3472713) is accepted by ACM Trans Intell Syst.
+* Oct. 2020: A paper on [multimodal image fusion](https://ieeexplore.ieee.org/abstract/document/9294085) is accepted by IEEE Trans Circuits Syst Video Technol (Impact Factor: 4.685).
+* Feb. 2020: A paper on [Multi-task deep learning on street view](https://www.sciencedirect.com/science/article/abs/pii/S0360132319306341) is accepted by Building and Environment (Impact Factor: 6.92).
 
 Selected Publications
 ======
@@ -32,7 +31,7 @@ Selected Publications
   <div class="column right">
     <p>
       <strong>A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding</strong><br/>
-      Chuanbo Hu, <u>Shan Jia*</u>, Fan Zhang, Xin Li<br/>
+      Chuanbo Hu, Shan Jia, Fan Zhang, Xin Li<br/>
      [<a href="https://arxiv.org/pdf/2205.06934.pdf">arXiv</a>] [<a href="https://github.com/cbhu523/saliency_last_way_finding">Codes</a>]
     </p>
   </div>
