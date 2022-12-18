@@ -88,7 +88,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="25%" src="https://cbhu523.github.io/images/SJ_FBC.jpg?raw=true">  
+    <img align="left" width="25%" src="https://cbhu523.github.io/images/sproofing.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -118,8 +118,4 @@ ___
 ___
 
 <div align="center">
-</div>
-
-<div align="center">
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=DWq0xRlaIghROAgH6Lr8tmD_XQEZ-bbDoLfqLus2cPc"></script>
 </div>
