@@ -44,7 +44,7 @@ ___
   <div class="column right">
     <p>
       <strong>MD-PhD (09/2012-06/2017)</strong><br/>
-      Communication and Information Systems, Wuhan University, China<br/>
+      Geographic Information System, Wuhan University, China<br/>
       Supervisor: Professor <a href="https://scholar.google.com.hk/citations?user=D5zNTFUAAAAJ&hl=zh-CN">Nengcheng Chen</a>
     </p>
   </div>
