@@ -15,7 +15,7 @@ redirect_from:
 News
 ======
 * Nov. 2022: A paper on [street view image inpainting](https://arxiv.org/pdf/2205.06934.pdf) is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) (Impact Factor: 11.774).
-* Oct. 2022: A paper on [GCN-based community detection on social media] is accepted by [Decision Support System](https://www.sciencedirect.com/journal/decision-support-systems) (Impact Factor: 6.969).
+* Oct. 2022: A paper on [GCN-based community detection on social media](https://www.sciencedirect.com/science/article/abs/pii/S0167923622001671) is accepted by [Decision Support System](https://www.sciencedirect.com/journal/decision-support-systems) (Impact Factor: 6.969).
 * Nov. 2021: A paper on [Deep multimodal multilabel learning on social media](https://dl.acm.org/doi/abs/10.1145/3459637.3481908) is accepted by CIKM 2021 [(Best paper award runner-up)](https://www.cikm2021.org/programme/best-paper-nominations).
 * Oct. 2021: A paper on [Deep multimodal learning on Instagram data](https://dl.acm.org/doi/abs/10.1145/3472713) is accepted by ACM Trans Intell Syst.
 * Oct. 2020: A paper on [multimodal image fusion](https://ieeexplore.ieee.org/abstract/document/9294085) is accepted by [IEEE Trans Circuits Syst Video Technol](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) (Impact Factor: 5.859).
@@ -25,13 +25,13 @@ Selected Publications
 ======
 <div class="row">
   <div class="column left">
-    <img align="left" width="25%" src="https://cbhu523.github.io/images/SJ_SV.jpg?raw=true">  
+    <img align="left" width="25%" src="https://cbhu523.github.io/images/inpaint.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
       <strong>A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding</strong><br/>
-      Chuanbo Hu, Shan Jia, Fan Zhang, Xin Li<br/>
+      <u>Chuanbo Hu</u>, Shan Jia, Fan Zhang, Xin Li<br/>
      [<a href="https://arxiv.org/pdf/2205.06934.pdf">arXiv</a>] [<a href="https://github.com/cbhu523/saliency_last_way_finding">Codes</a>]
     </p>
   </div>
@@ -40,16 +40,15 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="25%" src="https://cbhu523.github.io/images/SJ_DF.jpg?raw=true">  
+    <img align="left" width="25%" src="https://cbhu523.github.io/images/dss.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Model Attribution of Face-swap Deepfake Videos</strong><br/>
-      <u>Shan Jia</u>, Xin Li, Siwei Lyu<br/>
-      arXiv, 2022.
-     [<a href="https://ieeexplore.ieee.org/document/9897972">PDF</a>]
-      [<a href="https://github.com/shanface33/Deepfake_Model_Attribution">Code&Dataset</a>]
+      <strong>Fine-grained classification of drug trafficking based on Instagram hashtags</strong><br/>
+      <u>Chuanbo Hu</u>, Bin Liu, Yanfang Ye, Xin Li<br/>
+      Decision Support Systems, 2022.
+     [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167923622001671">PDF</a>]
     </p>
   </div>
 </div>
@@ -57,14 +56,15 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="25%" src="https://shanface33.github.io/images/SJ_DE.jpg?raw=true">  
+    <img align="left" width="25%" src="https://cbhu523.github.io/images/cikm.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Text-Image De-Contextualization Detection Using Vision-Language Models</strong><br/>
-      Mingzhen Huang, <u>Shan Jia</u>, Ming-Ching Chang, Siwei Lyu<br/>
-      ICASSP, 2022. [<a href="https://www.albany.edu/faculty/mchang2/files/2022_05_ICASSP_De-Contextualization.pdf">PDF</a>]
+      <strong>Detection of Illicit Drug Trafficking Events on Instagram: A Deep Multimodal Multilabel Learning Approach</strong><br/>
+      <u>Chuanbo Hu</u>, Minglei Yin, Bin Liu, Yanfang Ye, Xin Li<br/>
+      CIKM, 2021.
+     [<a href="https://dl.acm.org/doi/abs/10.1145/3459637.3481908">PDF</a>]
     </p>
   </div>
 </div>
@@ -72,13 +72,29 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="25%" src="https://shanface33.github.io/images/SJ_FBC.jpg?raw=true">  
+    <img align="left" width="25%" src="https://cbhu523.github.io/images/tist.jpg?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Identifying Illicit Drug Dealers on Instagram with Large-scale Multimodal Data Fusion</strong><br/>
+      <u>Chuanbo Hu</u>, Minglei Yin, Bin Liu, Yanfang Ye, Xin Li<br/>
+      ACM Transactions on Intelligent Systems and Technology (ACM TIST), 2021.
+     [<a href="https://dl.acm.org/doi/abs/10.1145/3472713?casa_token=0x3PMdkM8p8AAAAA:orNTuAK-K8Ns3-y6pvJuaMJ-QLpsXyjJSzlgM76iN7SvMloYQrG9llEShgBfFO3L1fScyil08WBc">PDF</a>]
+    </p>
+  </div>
+</div>
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="25%" src="https://cbhu523.github.io/images/SJ_FBC.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
       <strong>3D Face Anti-spoofing with Factorized Bilinear Coding</strong><br/>
-      <u>Shan Jia</u>, Xin Li*, Chuanbo Hu, Guodong Guo, Zhengquan Xu<br/>
+      Shan Jia, Xin Li, <u>Chuanbo Hu</u>, Guodong Guo, Zhengquan Xu<br/>
       IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2020. [<a href="https://arxiv.org/pdf/2005.06514.pdf">PDF</a>]
     </p>
   </div>
@@ -87,35 +103,20 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="25%" src="https://shanface33.github.io/images/SJ_PR.jpg?raw=true">  
+    <img align="left" width="25%" src="https://cbhu523.github.io/images/canyon.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>A Survey on 3D Mask Presentation Attack Detection and Countermeasures</strong><br/>
-      <u>Shan Jia</u>, Guodong Guo*, Zhengquan Xu<br/>
-      Pattern Recognition, 2020. [<a href="https://par.nsf.gov/servlets/purl/10222085">PDF</a>]
+      <strong>Classification and mapping of urban canyon geometry using Google Street View images and deep multitask learning</strong><br/>
+      <u>Chuanbo Hu</u>, Fan Zhang, Fangying Gong, Carlo Ratti, Xin Li<br/>
+      Building and Environment, 2020.
+     [<a href="https://dl.acm.org/doi/abs/10.1145/3472713?casa_token=0x3PMdkM8p8AAAAA:orNTuAK-K8Ns3-y6pvJuaMJ-QLpsXyjJSzlgM76iN7SvMloYQrG9llEShgBfFO3L1fScyil08WBc">PDF</a>]
     </p>
   </div>
 </div>
 ___
 
-<div class="row">
-  <div class="column left">
-    <img align="left" width="25%" src="https://shanface33.github.io/images/SJ_WF.jpg?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>A Database for Face Presentation Attack Using Wax Figure Faces</strong><br/>
-      <u>Shan Jia</u>, Chuanbo Hu, Guodong Guo, Zhengquan Xu<br/>
-      International Conference on Image Analysis and Processing (ICIAP), 2019.
-     [<a href="https://arxiv.org/pdf/1906.11900.pdf?ref=https://githubhelp.com">PDF</a>]
-      [<a href="https://github.com/shanface33/Wax_Figure_Face_DB">Dataset</a>]
-    </p>
-  </div>
-</div>
-___
 <div align="center">
 </div>
 
