@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chuanbo Hu"
 title_separator          : "-"
 name                     : &name "Chuanbo Hu"
-description              : &description "Personal website of Shan Jia"
+description              : &description "Personal website of Chuanbo Hu"
 url                      : https://cbhu523.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cbhu523/cbhu523.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chuanbo Hu 胡传博"
-  avatar           : "cbhu.png"
+  avatar           : "cbhu523.github.io/images/cbhu.png"
   bio              : "Post-doctoral Researcher at WVU"
   location         : "Morgantown, WV, USA"
   employer         :
