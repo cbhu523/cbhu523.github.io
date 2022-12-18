@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chuanbo Hu"
-  avatar           : "cbhu523.github.io/images/cbhu.png"
+  avatar           : "https://cbhu523.github.io/images/cbhu.png"
   bio              : "Post-doctoral Researcher at WVU"
   location         : "Morgantown, WV, USA"
   employer         :
