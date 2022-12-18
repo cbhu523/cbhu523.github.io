@@ -15,7 +15,7 @@ redirect_from:
 News
 ======
 * Nov. 2022: A paper on [street view image inpainting](https://arxiv.org/pdf/2205.06934.pdf) is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) (Impact Factor: 11.774).
-* Oct. 2022: A paper on [GCN-based community detection on social media](https://www.sciencedirect.com/science/article/abs/pii/S0167923622001671) is accepted by [Decision Support System](https://www.sciencedirect.com/journal/decision-support-systems) (Impact Factor: 6.969).
+* Oct. 2022: A paper on [GCN-based community detection on social media](https://www.sciencedirect.com/science/article/abs/pii/S0167923622001671) is accepted by [Decision Support System](https://www.sciencedirect.com/journal/decision-support-systems) (Impact Factor: 7.42).
 * Nov. 2021: A paper on [Deep multimodal multilabel learning on social media](https://dl.acm.org/doi/abs/10.1145/3459637.3481908) is accepted by CIKM 2021 [(Best paper award runner-up)](https://www.cikm2021.org/programme/best-paper-nominations).
 * Oct. 2021: A paper on [Deep multimodal learning on Instagram data](https://dl.acm.org/doi/abs/10.1145/3472713) is accepted by ACM Trans Intell Syst.
 * Oct. 2020: A paper on [multimodal image fusion](https://ieeexplore.ieee.org/abstract/document/9294085) is accepted by [IEEE Trans Circuits Syst Video Technol](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) (Impact Factor: 5.859).
