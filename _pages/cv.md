@@ -11,28 +11,13 @@ redirect_from:
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="20%" height="20%" src="https://shanface33.github.io/images/SJ_UB.jpg?raw=true">  
-  </div>
-  
-  <div class="column right">
-    <p>
-      <strong>Post-doctoral Researcher (10/2021-present)</strong><br/>
-      University at Buffalo, State University of New York, USA<br/>
-      Supervisor: Professor <a href="https://cse.buffalo.edu/~siweilyu/index.html">Siwei Lyu</a>
-    </p>
-  </div>
-</div>
-
-___
-<div class="row">
-  <div class="column left">
-    <img align="left" width="20%" height="20%" src="https://shanface33.github.io/images/SJ_wvu.jpg?raw=true">  
+    <img align="left" width="20%" height="20%" src="https://cbhu523.github.io/images/SJ_wvu.jpg?raw=true">  
   </div>
   <div class="column right">
     <p>
-      <strong>Visiting Scholar (10/2017-06/2021)</strong><br/>
+      <strong>Post-doctoral Researcher (11/2018-present)</strong><br/>
       Computer Science, West Virginia University, USA<br/>
-      Supervisor: Professor <a href="https://xinli.faculty.wvu.edu/">Xin Li</a> and <a href="https://directory.statler.wvu.edu/faculty-staff-directory/guodong-guo">Guodong Guo</a>
+      Supervisor: Professor <a href="https://xinli.faculty.wvu.edu/">Xin Li</a>
     </p>
   </div>
 </div>
@@ -40,28 +25,27 @@ ___
 ___
 <div class="row">
   <div class="column left">
-    <img align="left" width="20%" height="20%" src="https://shanface33.github.io/images/SJ_whu2.jpg?raw=true">  
+    <img align="left" width="20%" height="20%" src="https://cbhu523.github.io/images/cuhk.jpg?raw=true">  
   </div>
   <div class="column right">
     <p>
-      <strong>MD-PhD (09/2014-06/2021)</strong><br/>
+      <strong>Post-doctoral Researcher (11/2017-11/2018)</strong><br/>
+      Virtual Geographic Environments, The Chinese University of Hong Kong, USA<br/>
+      Supervisor: Professor <a href="https://www.grm.cuhk.edu.hk/en/profile/prof-lin-hui/">Hui Lin</a>
+    </p>
+  </div>
+</div>
+
+___
+<div class="row">
+  <div class="column left">
+    <img align="left" width="20%" height="20%" src="https://cbhu523.github.io/images/SJ_whu2.jpg?raw=true">  
+  </div>
+  <div class="column right">
+    <p>
+      <strong>MD-PhD (09/2012-06/2017)</strong><br/>
       Communication and Information Systems, Wuhan University, China<br/>
-      Supervisor: Professor <a href="https://www.researchgate.net/profile/Zhengquan-Xu">Zhengquan Xu</a>
+      Supervisor: Professor <a href="https://scholar.google.com.hk/citations?user=D5zNTFUAAAAJ&hl=zh-CN">Nengcheng Chen</a>
     </p>
   </div>
 </div>
-
-___
-<div class="row">
-  <div class="column left">
-    <img align="left" width="20%"  height="20%" src="https://shanface33.github.io/images/SJ_whu.jpg?raw=true">  
-  </div>
-  <div class="column right">
-    <p>
-      <strong>Bachelor (09/2010-06/2014)</strong><br/>
-      Electrical Engineering, Wuhan University, China<br/>
-    </p>
-  </div>
-</div>
-
- 
