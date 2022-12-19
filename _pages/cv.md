@@ -25,7 +25,7 @@ ___
 
   <div class="column right">
     <p>
-      <strong>Post-doctoral Researcher (11/2017-11/2018)</strong><br/>
+      <strong>Research Assistant (11/2017-11/2018)</strong><br/>
       Virtual Geographic Environments, The Chinese University of Hong Kong, USA<br/>
       Supervisor: Professor <a href="https://www.grm.cuhk.edu.hk/en/profile/prof-lin-hui/">Hui Lin</a>
     </p>
