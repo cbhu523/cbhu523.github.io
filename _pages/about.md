@@ -28,6 +28,8 @@ Selected Publications
     <img align="left" width="25%" src="https://cbhu523.github.io/images/inpaint.png?raw=true">  
   </div>
   <div class="column middle"></div>
+  <div class="column middle"></div>
+  <div class="column middle"></div>
   <div class="column right">
     <p>
       <strong>A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding</strong><br/>
