@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a Postdoctoral Researcher the [Lane Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at the West Virginia University (WVU). I feel lucky to work with Professor [Xin Li](https://xinli.faculty.wvu.edu/). Before joining to WVU, I was a Research Assistant in the [Institute of Space and Earth Information Science (ISEIS)](http://www.iseis.cuhk.edu.hk/en/) at The Chinese University of Hong Kong (CUHK), working with Professor [Hui Lin](https://www.grm.cuhk.edu.hk/en/profile/prof-lin-hui/). In 2017, I finished my Ph.D. from Wuhan University, advised by Professor [Nengcheng Chen](https://scholar.google.com.hk/citations?user=D5zNTFUAAAAJ&hl=zh-CN). 
+* I am currently a Postdoctoral Researcher the [Lane Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at the West Virginia University (WVU). I feel lucky to work with Professor [Xin Li](https://xinli.faculty.wvu.edu/). Before joining to WVU, I was a Research Assistant in the [Institute of Space and Earth Information Science (ISEIS)](http://www.iseis.cuhk.edu.hk/en/) at The Chinese University of Hong Kong (CUHK), working with Professor [Hui Lin](https://www.grm.cuhk.edu.hk/en/profile/prof-lin-hui/). In 2017, I finished my Ph.D. from Wuhan University, advised by Professor Wei Wang and Professor [Nengcheng Chen](https://scholar.google.com.hk/citations?user=D5zNTFUAAAAJ&hl=zh-CN). 
 
 * My research interests include GeoAI, multimedia, data mining and computer vision, etc.
 
