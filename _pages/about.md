@@ -81,7 +81,7 @@ ___
     <p>
       <strong>Identifying Illicit Drug Dealers on Instagram with Large-scale Multimodal Data Fusion</strong><br/>
       <u>Chuanbo Hu</u>, Minglei Yin, Bin Liu, Yanfang Ye, Xin Li<br/>
-      ACM TIST, 2021.
+      ACM Transactions on Intelligent Systems and Technology (ACM TIST), 2021.
      [<a href="https://dl.acm.org/doi/abs/10.1145/3472713?casa_token=0x3PMdkM8p8AAAAA:orNTuAK-K8Ns3-y6pvJuaMJ-QLpsXyjJSzlgM76iN7SvMloYQrG9llEShgBfFO3L1fScyil08WBc">PDF</a>]
     </p>
   </div>
