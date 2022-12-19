@@ -10,9 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div class="row">
-  <div class="column left">
-    <img align="left" width="20%" height="20%" src="https://cbhu523.github.io/images/SJ_wvu.jpg?raw=true">  
-  </div>
+
   <div class="column right">
     <p>
       <strong>Post-doctoral Researcher (11/2018-present)</strong><br/>
@@ -24,9 +22,7 @@ redirect_from:
 
 ___
 <div class="row">
-  <div class="column left">
-    <img align="left" width="19%" height="16%" src="https://cbhu523.github.io/images/cuhk.jpg?raw=true">  
-  </div>
+
   <div class="column right">
     <p>
       <strong>Post-doctoral Researcher (11/2017-11/2018)</strong><br/>
@@ -38,9 +34,7 @@ ___
 
 ___
 <div class="row">
-  <div class="column left">
-    <img align="left" width="20%" height="14%" src="https://cbhu523.github.io/images/whu.jpg?raw=true">  
-  </div>
+
   <div class="column right">
     <p>
       <strong>MD-PhD (09/2012-06/2017)</strong><br/>
