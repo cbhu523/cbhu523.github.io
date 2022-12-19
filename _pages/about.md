@@ -17,7 +17,7 @@ News
 * Nov. 2022: A paper on [street view image inpainting](https://www.sciencedirect.com/science/article/pii/S0924271622003021?dgcid=coauthor) is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) (Impact Factor: 11.774).
 * Oct. 2022: A paper on [GCN-based community detection on social media](https://www.sciencedirect.com/science/article/abs/pii/S0167923622001671) is accepted by [Decision Support System](https://www.sciencedirect.com/journal/decision-support-systems) (Impact Factor: 7.42).
 * Nov. 2021: A paper on [Deep multimodal multilabel learning on social media](https://dl.acm.org/doi/abs/10.1145/3459637.3481908) is accepted by CIKM 2021 [(Best paper award runner-up)](https://www.cikm2021.org/programme/best-paper-nominations).
-* Oct. 2021: A paper on [Deep multimodal learning on Instagram data](https://dl.acm.org/doi/abs/10.1145/3472713) is accepted by ACM Trans Intell Syst. (Impact Factor: 10.489)
+* Oct. 2021: A paper on [Deep multimodal learning on Instagram data](https://dl.acm.org/doi/abs/10.1145/3472713) is accepted by ACM TIST (Impact Factor: 10.489)
 * Oct. 2020: A paper on [multimodal image fusion](https://ieeexplore.ieee.org/abstract/document/9294085) is accepted by [IEEE Trans Circuits Syst Video Technol](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) (Impact Factor: 5.859).
 * Feb. 2020: A paper on [Multi-task deep learning on street view](https://www.sciencedirect.com/science/article/abs/pii/S0360132319306341) is accepted by [Building and Environment](https://www.sciencedirect.com/journal/building-and-environment) (Impact Factor: 6.92).
 
@@ -79,7 +79,7 @@ ___
     <p>
       <strong>Identifying Illicit Drug Dealers on Instagram with Large-scale Multimodal Data Fusion</strong><br/>
       <u>Chuanbo Hu</u>, Minglei Yin, Bin Liu, Yanfang Ye, Xin Li<br/>
-      ACM Transactions on Intelligent Systems and Technology (ACM TIST), 2021.
+      ACM TIST, 2021.
      [<a href="https://dl.acm.org/doi/abs/10.1145/3472713?casa_token=0x3PMdkM8p8AAAAA:orNTuAK-K8Ns3-y6pvJuaMJ-QLpsXyjJSzlgM76iN7SvMloYQrG9llEShgBfFO3L1fScyil08WBc">PDF</a>]
     </p>
   </div>
