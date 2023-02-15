@@ -38,6 +38,7 @@ Selected Publications
     <p>
       <strong>A Saliency-Guided Street View Image Inpainting Framework for Efficient Last-Meters Wayfinding</strong><br/>
       <u>Chuanbo Hu</u>, Shan Jia, Fan Zhang, Xin Li<br/>
+      ISPRS Journal of Photogrammetry and Remote Sensing, 2022.
      [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0924271622003021?CMX_ID=&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&utm_acid=28050610&utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_in=DM327306&utm_medium=email&utm_source=AC_">PDF</a>] [<a href="https://github.com/cbhu523/saliency_last_way_finding">Codes</a>]
     </p>
   </div>
@@ -136,3 +137,4 @@ Journal/Conference Reviewer
 * Building and Environment
 * Scientific Reports
 * Cities
+* International Journal of Digital Earth
