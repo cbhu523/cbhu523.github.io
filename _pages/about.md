@@ -18,6 +18,7 @@ Research Interests
 
 News
 ======
+March. 2023: A paper on Action Recognition to Autism Diagnosis is accepted by [ACM Multimedia Systems Conference 2023](https://2023.acmmmsys.org/).
 * Nov. 2022: A paper on [Street view image inpainting](https://www.sciencedirect.com/science/article/pii/S0924271622003021?dgcid=coauthor) is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) (Impact Factor: 11.774).
 * Oct. 2022: A paper on [GCN-based community detection on social media](https://www.sciencedirect.com/science/article/abs/pii/S0167923622001671) is accepted by [Decision Support System](https://www.sciencedirect.com/journal/decision-support-systems) (Impact Factor: 7.42).
 * Nov. 2021: A paper on [Deep multimodal multilabel learning on social media](https://dl.acm.org/doi/abs/10.1145/3459637.3481908) is accepted by CIKM 2021 [(Best applied paper runner-up award)](https://www.cikm2021.org/programme/best-paper-nominations).
