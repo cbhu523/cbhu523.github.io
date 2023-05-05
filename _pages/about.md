@@ -155,3 +155,5 @@ Journal/Conference Reviewer
 * Scientific Reports
 * Cities
 * International Journal of Digital Earth
+* Computers, Environment and Urban Systems
+* ISPRS Journal of Photogrammetry and Remote Sensing
