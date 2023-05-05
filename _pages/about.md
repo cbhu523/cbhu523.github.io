@@ -18,7 +18,7 @@ Research Interests
 
 News
 ======
-* Mar. 2023: A paper on Autism diagnosis based on action recognition is accepted by [ACM Multimedia Systems Conference 2023](https://2023.acmmmsys.org/).
+* Mar. 2023: A paper on [Autism diagnosis based on action recognition](https://arxiv.org/pdf/2304.10073.pdf) is accepted by [ACM Multimedia Systems Conference 2023](https://2023.acmmmsys.org/).
 * Nov. 2022: A paper on [Street view image inpainting](https://www.sciencedirect.com/science/article/pii/S0924271622003021?dgcid=coauthor) is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) (Impact Factor: 11.774).
 * Oct. 2022: A paper on [GCN-based community detection on social media](https://www.sciencedirect.com/science/article/abs/pii/S0167923622001671) is accepted by [Decision Support System](https://www.sciencedirect.com/journal/decision-support-systems) (Impact Factor: 7.42).
 * Nov. 2021: A paper on [Deep multimodal multilabel learning on social media](https://dl.acm.org/doi/abs/10.1145/3459637.3481908) is accepted by CIKM 2021 [(Best applied paper runner-up award)](https://www.cikm2021.org/programme/best-paper-nominations).
@@ -28,6 +28,22 @@ News
 
 Selected Publications
 ======
+<div class="row">
+  <div class="column left">
+    <img align="left" width="25%" src="https://cbhu523.github.io/images/visual_score.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>UPDExplainer: an Interpretable Transformer-based Framework for Urban Physical Disorder Detection Using Street View Imagery</strong><br/>
+      <u>Chuanbo Hu</u>, Shan Jia, Fan Zhang, Changjiang Xiao, Mindi Ruan, Jacob Thrasher, Xin Li<br/>
+      arXiv, 2023.
+     [<a href="https://www.researchgate.net/publication/370524684_UPDExplainer_an_Interpretable_Transformer-based_Framework_for_Urban_Physical_Disorder_Detection_Using_Street_View_Imagery">PDF</a>]
+    </p>
+  </div>
+</div>
+___
+
 <div class="row">
   <div class="column left">
     <img align="left" width="25%" src="https://cbhu523.github.io/images/inpaint.png?raw=true">  
