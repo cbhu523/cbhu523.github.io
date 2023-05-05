@@ -30,7 +30,7 @@ Selected Publications
 ======
 <div class="row">
   <div class="column left">
-    <img align="left" width="25%" src="https://cbhu523.github.io/images/visual_score.png?raw=true">  
+    <img align="left" width="25%" src="https://cbhu523.github.io/images/UPD_framework.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
