@@ -38,7 +38,7 @@ Selected Publications
       <strong>UPDExplainer: an Interpretable Transformer-based Framework for Urban Physical Disorder Detection Using Street View Imagery</strong><br/>
       <u>Chuanbo Hu</u>, Shan Jia, Fan Zhang, Changjiang Xiao, Mindi Ruan, Jacob Thrasher, Xin Li<br/>
       arXiv, 2023.
-     [<a href="https://www.researchgate.net/publication/370524684_UPDExplainer_an_Interpretable_Transformer-based_Framework_for_Urban_Physical_Disorder_Detection_Using_Street_View_Imagery">PDF</a>]
+     [<a href="https://arxiv.org/pdf/2305.02911.pdf">PDF</a>]
     </p>
   </div>
 </div>
