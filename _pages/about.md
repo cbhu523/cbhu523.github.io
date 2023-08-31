@@ -40,7 +40,7 @@ Selected Publications
     <p>
       <strong>UPDExplainer: an Interpretable Transformer-based Framework for Urban Physical Disorder Detection Using Street View Imagery</strong><br/>
       <u>Chuanbo Hu</u>, Shan Jia, Fan Zhang, Changjiang Xiao, Mindi Ruan, Jacob Thrasher, Xin Li<br/>
-      arXiv, 2023.
+     ISPRS Journal of Photogrammetry and Remote Sensing, 2023.
      [<a href="https://arxiv.org/pdf/2305.02911.pdf">PDF</a>]
     </p>
   </div>
