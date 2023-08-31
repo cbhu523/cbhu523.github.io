@@ -33,6 +33,21 @@ Selected Publications
 ======
 <div class="row">
   <div class="column left">
+    <img align="left" width="25%" src="https://cbhu523.github.io/images/chatgpt_drug.jpg?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Unveiling the Potential of Knowledge-Prompted ChatGPT for Enhancing Drug Trafficking Detection on Social Media</strong><br/>
+      <u>Chuanbo Hu</u>, Bin Liu, Xin Li, Yanfang Ye<br/>
+     arXiv, 2023.
+     [<a href="https://arxiv.org/pdf/2307.03699.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+___
+<div class="row">
+  <div class="column left">
     <img align="left" width="25%" src="https://cbhu523.github.io/images/visual_score.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
