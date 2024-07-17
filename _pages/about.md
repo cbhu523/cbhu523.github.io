@@ -20,6 +20,8 @@ Research Interests
 
 News
 ======
+* Jul. 2024: A paper on [Knowledge-Prompted ChatGPT for Drug Trafficking Detection](https://arxiv.org/pdf/2305.02911.pdf]) is accepted by [Information & Management](https://www.sciencedirect.com/journal/information-and-management) (Impact Factor: 8.2).
+* Apr. 2024: A paper on [Multmodal Large Language Model (ChatGPT) Detect DeepFakes](https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Jia_Can_ChatGPT_Detect_DeepFakes_A_Study_of_Using_Multimodal_Large_CVPRW_2024_paper.pdf) is accepted by [Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024) Workshop on Media Forensics](https://cvpr.thecvf.com/)
 * Aug. 2023: A paper on [Interpretable Transformer for Urban Physical Disorder Detection]([https://www.sciencedirect.com/science/article/pii/S0924271622003021?dgcid=coauthor](https://arxiv.org/pdf/2305.02911.pdf)) is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) (Impact Factor: 12.7).
 * Mar. 2023: A paper on [Autism diagnosis based on action recognition](https://arxiv.org/pdf/2304.10073.pdf) is accepted by [ACM Multimedia Systems Conference 2023](https://2023.acmmmsys.org/).
 * Nov. 2022: A paper on [Street view image inpainting](https://www.sciencedirect.com/science/article/pii/S0924271622003021?dgcid=coauthor) is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) (Impact Factor: 12.7).
