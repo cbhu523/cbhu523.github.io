@@ -71,10 +71,10 @@ ___
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Unveiling the Potential of Knowledge-Prompted ChatGPT for Enhancing Drug Trafficking Detection on Social Media</strong><br/>
-      <u>Chuanbo Hu</u>, Bin Liu, Xin Li, Yanfang Ye<br/>
-     arXiv, 2023.
-     [<a href="https://arxiv.org/pdf/2307.03699.pdf">PDF</a>]
+      <strong>Knowledge-Prompted ChatGPT: Enhancing Drug Trafficking Detection on Social Media</strong><br/>
+      <u>Chuanbo Hu</u>, Bin Liu, Xin Li, Yanfang Ye, Minglei Yin<br/>
+     Information & Management, 2024.
+     [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0378720624000922">PDF</a>]
     </p>
   </div>
 </div>
