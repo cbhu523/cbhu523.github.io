@@ -35,6 +35,37 @@ Selected Publications
 ======
 <div class="row">
   <div class="column left">
+    <img align="left" width="25%" src="https://cbhu523.github.io/images/app_rating.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Multimodal Chain-of-Thought Reasoning via ChatGPT to Protect Children from Age-Inappropriate Apps</strong><br/>
+      <u>Chuanbo Hu</u>, Bin Liu, Minglei Yin, Yilu Zhou, Xin Li<br/>
+     arXiv, 2024.
+     [<a href="https://arxiv.org/pdf/2407.06309">PDF</a>]
+    </p>
+  </div>
+</div>
+___
+<div class="row">
+  <div class="column left">
+    <img align="left" width="25%" src="https://cbhu523.github.io/images/gpt.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Exploiting ChatGPT for Diagnosing Autism-Associated Language Disorders and Identifying Distinct Features</strong><br/>
+      <u>Chuanbo Hu</u>, Wenqi Li, Mindi Ruan, Xiangxu Yu, Lynn K. Paul,
+Shuo Wang, Xin Li<br/>
+     arXiv, 2024.
+     [<a href="https://arxiv.org/pdf/2405.01799">PDF</a>]
+    </p>
+  </div>
+</div>
+___
+<div class="row">
+  <div class="column left">
     <img align="left" width="25%" src="https://cbhu523.github.io/images/chatgpt_drug.jpg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
