@@ -35,6 +35,21 @@ Selected Publications
 ======
 <div class="row">
   <div class="column left">
+    <img align="left" width="25%" src="https://cbhu523.github.io/images/Urban_renewal_example_homepage.jpg?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>URSimulator: Human-Perception-Driven Prompt Tuning for Enhanced Virtual Urban Renewal via Diffusion Models</strong><br/>
+      <u>Chuanbo Hu</u>, Shan Jia, Xin Li<br/>
+     arXiv, 2024.
+     [<a href="http://arxiv.org/abs/2409.14589">PDF</a>]
+    </p>
+  </div>
+</div>
+___
+<div class="row">
+  <div class="column left">
     <img align="left" width="25%" src="https://cbhu523.github.io/images/app_rating.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
