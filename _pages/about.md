@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am honored to serve as a Postdoctoral Researcher at the University at Albany, State University of New York (UAlbany). In this role, I have had the privilege of collaborating with Professor [Xin Li](https://xinli.faculty.wvu.edu/).
+* I am honored to serve as a Research Scientist at the University at Albany, State University of New York (UAlbany). In this role, I have had the privilege of collaborating with Professor [Xin Li](https://xinli.faculty.wvu.edu/).
 * Prior to joining UAlbany, I held a postdoctoral position at the [Lane Department of Computer Science and Electrical Engineering](https://lcsee.statler.wvu.edu/) at the West Virginia University (WVU). My journey in academic research began at The Chinese University of Hong Kong (CUHK) within the [Institute of Space and Earth Information Science (ISEIS)](http://www.iseis.cuhk.edu.hk/en/). There, I worked as a Research Assistant with Professor [Hui Lin](https://www.grm.cuhk.edu.hk/en/profile/prof-lin-hui/).
 * In 2017, I earned my Ph.D. from Wuhan University under the guidance of Professors Wei Wang and Professor [Nengcheng Chen](https://scholar.google.com.hk/citations?user=D5zNTFUAAAAJ&hl=zh-CN). 
 
