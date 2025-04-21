@@ -13,7 +13,7 @@ redirect_from:
 
   <div class="column right">
     <p>
-      <strong>Post-doctoral Researcher (09/2023 - Present)</strong><br/>
+      <strong>Research Scientist (09/2023 - Present)</strong><br/>
       Computer Science, University at Albany - State University of New York, USA<br/>
       Supervisor: Professor <a href="https://www.albany.edu/computer-science/faculty/xin-li">Xin Li</a>
     </p>
