@@ -219,7 +219,5 @@ Journal/Conference Reviewer
 * International World Wide Web Conference (WWW)
 * Building and Environment
 * Scientific Reports
-* Cities
 * International Journal of Digital Earth
-* Computers, Environment and Urban Systems
 * ISPRS Journal of Photogrammetry and Remote Sensing
