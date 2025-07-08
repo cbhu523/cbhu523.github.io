@@ -43,7 +43,7 @@ Selected Publications
     <p>
       <strong>URSimulator: Human-Perception-Driven Prompt Tuning for Enhanced Virtual Urban Renewal via Diffusion Models</strong><br/>
       <u>Chuanbo Hu</u>, Shan Jia, Xin Li<br/>
-     arXiv, 2024.
+     ISPRS Journal of Photogrammetry and Remote Sensing, 2025.
      [<a href="http://arxiv.org/abs/2409.14589">PDF</a>]
     </p>
   </div>
