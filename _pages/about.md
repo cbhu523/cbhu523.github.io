@@ -14,9 +14,10 @@ redirect_from:
 
 Research Interests
 ======
-* Multimedia and Computer Vision
+* Agentic AI and Mutli-Agent System
+* Context Engineering and Vibe Coding
 * Data Mining and Machine Learning
-* GeoAI and Urban Visual Intelligence
+
 
 News
 ======
