@@ -14,8 +14,8 @@ redirect_from:
 
 Research Interests
 ======
-* Agentic AI and Mutli-Agent System
-* Context Engineering and Vibe Coding
+* World Model and Reinforcement Learning
+* Agentic AI and Context Engineering
 * Data Mining and Machine Learning
 
 
