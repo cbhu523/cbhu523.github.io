@@ -21,6 +21,7 @@ Research Interests
 
 News
 ======
+* Oct. 2025: A paper on [LLM-Based Autism Diagnosis]([https://arxiv.org/pdf/2409.14589](https://pmc.ncbi.nlm.nih.gov/articles/PMC12324599/) is accepted by [npj Digital Medicine](https://www.nature.com/npjdigitalmed/)(Impact Factor: 15.1)
 * Jul. 2025: A paper on [Text-Driven Prompt Tuning for Street View Image Editing via Diffusion Models](https://arxiv.org/pdf/2409.14589) is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing)(Impact Factor: 12.2)
 * Jul. 2024: A paper on [Knowledge-Prompted ChatGPT for Drug Trafficking Detection](https://arxiv.org/pdf/2305.02911.pdf) is accepted by [Information & Management](https://www.sciencedirect.com/journal/information-and-management) (Impact Factor: 8.2).
 * Apr. 2024: A paper on [Multmodal Large Language Model (ChatGPT) Detect DeepFakes](https://openaccess.thecvf.com/content/CVPR2024W/WMF/papers/Jia_Can_ChatGPT_Detect_DeepFakes_A_Study_of_Using_Multimodal_Large_CVPRW_2024_paper.pdf) is accepted by [Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024) Workshop on Media Forensics](https://cvpr.thecvf.com/)
