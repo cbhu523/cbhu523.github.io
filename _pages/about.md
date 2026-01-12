@@ -21,6 +21,7 @@ Research Interests
 
 News
 ======
+* Jan. 2026: A paper on [Multimodal Reasoning via LLMs to Protect Children from Age-Inappropriate Apps](https://arxiv.org/pdf/2407.06309) is accepted by [Information & Management](https://www.sciencedirect.com/journal/information-and-management) (5-year Impact Factor: 11.2).
 * Nov. 2025: A paper on [LLM-Based Autism Diagnosis](https://pmc.ncbi.nlm.nih.gov/articles/PMC12324599/) is accepted by [npj Digital Medicine](https://www.nature.com/npjdigitalmed/)(5-year Impact Factor: 17.0)
 * Jul. 2025: A paper on [Text-Driven Prompt Tuning for Street View Image Editing via Diffusion Models](https://arxiv.org/pdf/2409.14589) is accepted by [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing)(5-year Impact Factor: 13.7)
 * Jul. 2024: A paper on [Knowledge-Prompted ChatGPT for Drug Trafficking Detection](https://arxiv.org/pdf/2305.02911.pdf) is accepted by [Information & Management](https://www.sciencedirect.com/journal/information-and-management) (5-year Impact Factor: 11.2).
@@ -36,6 +37,21 @@ News
 
 Selected Publications
 ======
+<div class="row">
+  <div class="column left">
+    <img align="left" width="25%" src="https://cbhu523.github.io/images/app_rating.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Multimodal Chain-of-Thought Reasoning via ChatGPT to Protect Children from Age-Inappropriate Apps</strong><br/>
+      <u>Chuanbo Hu</u>, Bin Liu, Minglei Yin, Yilu Zhou, Xin Li<br/>
+     Information & Management, 2026.
+     [<a href="https://arxiv.org/pdf/2407.06309">PDF</a>]
+    </p>
+  </div>
+</div>
+___
 <div class="row">
   <div class="column left">
     <img align="left" width="25%" src="https://cbhu523.github.io/images/gpt.png?raw=true">  
@@ -63,21 +79,6 @@ ___
       <u>Chuanbo Hu</u>, Shan Jia, Xin Li<br/>
      ISPRS Journal of Photogrammetry and Remote Sensing, 2025.
      [<a href="http://arxiv.org/abs/2409.14589">PDF</a>]
-    </p>
-  </div>
-</div>
-___
-<div class="row">
-  <div class="column left">
-    <img align="left" width="25%" src="https://cbhu523.github.io/images/app_rating.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Multimodal Chain-of-Thought Reasoning via ChatGPT to Protect Children from Age-Inappropriate Apps</strong><br/>
-      <u>Chuanbo Hu</u>, Bin Liu, Minglei Yin, Yilu Zhou, Xin Li<br/>
-     arXiv, 2024.
-     [<a href="https://arxiv.org/pdf/2407.06309">PDF</a>]
     </p>
   </div>
 </div>
